@@ -94,6 +94,10 @@ xtitle("Cross Correlation", "Lag", "Correlation");
 <img width="942" height="1600" alt="WhatsApp Image 2026-09-25 at 12 49 13" src="https://github.com/user-attachments/assets/f36d86db-a62d-4307-9fcc-59c6b2a453b3" />
 
 # OUTPUT
+
+<img width="1280" height="753" alt="WhatsApp Image 2026-09-25 at 14 42 15" src="https://github.com/user-attachments/assets/e78a6d6b-e455-4236-ad06-cdd3bc5ea174" />
+
+
 i)	Mean of X =	0.66 Mean of Y =	0.666
 
 ii)	Variance of X	 0.0222 Variance of Y	0.0222
@@ -102,6 +106,8 @@ Cross Correlation
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
+
+
  
 
 # RESULT:
