@@ -26,7 +26,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 •	Verify the generated results
 
 # Program
-
+````
 clear;
 clc;
 
@@ -88,6 +88,7 @@ disp(r, "Cross Correlation =");
 // Plot
 plot2d3(r);
 xtitle("Cross Correlation", "Lag", "Correlation");
+````
 # TABULATION
 
 <img width="942" height="1600" alt="WhatsApp Image 2026-09-25 at 12 49 13" src="https://github.com/user-attachments/assets/f36d86db-a62d-4307-9fcc-59c6b2a453b3" />
